@@ -1,6 +1,6 @@
 body{
     background-image: url("../css/img/background.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 .center {
